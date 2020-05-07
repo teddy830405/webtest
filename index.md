@@ -39,6 +39,19 @@ This is an H2 標題ㄏㄏ
 
 ```
 
+This is an H1 標題
+=============
+
+This is an H2 標題ㄏㄏ
+-------------
+
+# This is an H1
+
+## This is an H2
+
+###### This is an H6
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
